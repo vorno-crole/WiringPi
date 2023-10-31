@@ -8,7 +8,7 @@ the ports) and fix bugs.
 I don't know of any other forks that continued work in the spirit of the original,
 so this is probably the last fork. I don't intend on trying to update it for the RPi5
 or Debian 'bookmark' either.  
-At some point I may cannibalize the source code to ad to separate libraries, but only as I need it.
+At some point I may cannibalize the source code to add to separate libraries, but only as I need it.
 
 ---
 
