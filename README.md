@@ -10,6 +10,10 @@ so this is probably the last fork. I don't intend on trying to update it for the
 or Debian 'bookmark' either.  
 At some point I may cannibalize the source code to add to separate libraries, but only as I need it.
 
+About the RaspberryPi5:  
+The Raspberry Pi 5 uses the BCM2712 SoC package and the RP1 southbridge to control the GPIO pins. This hardware setup is very different from the Pi 4B (and from other Pi models).
+Since it's not backward compatible, there's not much point in trying to integrate RPi5 into any current libraries.
+
 ---
 
 ## Notable Updates
