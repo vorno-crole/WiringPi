@@ -13,7 +13,7 @@ About the RaspberryPi5:
 The Raspberry Pi 5 uses the BCM2712 SoC package and the RP1 southbridge to control the GPIO pins. This hardware setup is very different from the Pi 4B (and from other Pi models).
 Since it's not backward compatible, there's not much point in trying to integrate RPi5 into any current libraries.
 
-I also will not be keeping this repository up to date since RaspberryPi OS will no longer be backward-compatible with C and C++ libraries.
+I also will not be keeping this repository up to date since RaspberryPi OS will no longer be backward-compatible with C and C++ libraries.  
 Good luck!
 
 ---
