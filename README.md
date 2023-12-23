@@ -1,6 +1,6 @@
 # WiringPi 
 
-This is a mirror/fork of wiringPi.  Pretty much this is the last fork that full supports up to the RaspberryPi 4B.
+This is a mirror/fork of wiringPi.  Pretty much this is the last fork that full supports up to the RaspberryPi 4B.  
 This repository has become a mirror of the last "official" source release, plus a fork
 facilitating updates to support newer hardware (primarily for use by the ports) and fix bugs.
 
