@@ -126,3 +126,9 @@ This is like the existing wiringPiISR, but it takes a list of pins to wait for.
 Note that (for simplicity) the mode applies to all the specified pins.
 
 ---
+
+# NOTE
+
+This project also exists on GitLab at https://gitlab.com/nuncio-bitis/WiringPi
+
+---
