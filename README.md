@@ -1,6 +1,9 @@
 # WiringPi 
 
 This is a mirror/fork of wiringPi.  Pretty much this is the last fork that fully supports up to the RaspberryPi 4B.  
+
+***The original WiringPi on GitHub has been dropped and deprecated. I was a developer on there. It seems they've thrown off all the original developers and started the project anew for the 5B and up ONLY***
+
 This repository has become a mirror of the last "official" source release, plus a fork
 facilitating updates to support newer hardware (primarily for use by the ports) and fix bugs.
 
