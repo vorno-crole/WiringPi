@@ -735,7 +735,7 @@ int piGpioLayout (void)
       break;
 
   if (strncmp (line, "Hardware", 8) != 0)
-    piGpioLayoutOops ("No \"Hardware\" line");
+    if (wiringPiDebug) printf  ("No \"Hardware\" line");
   else
   {
     for (c = line; *c; ++c)
